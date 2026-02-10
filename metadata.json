@@ -1,0 +1,5 @@
+{
+  "name": "IFTU LMS",
+  "description": "A full-featured University Learning Management System (LMS) with authentication, role-based access, online exams, mobile support, and bilingual language support (English & Afan Oromo).",
+  "requestFramePermissions": []
+}
